@@ -19,11 +19,7 @@ Presenters Today:
 * Smruti Padhy Ph.D. - Engineering Scientist - Cloud and Interactive Computing (CIC) group - Texas Advanced Computing Center
 
 Funding provided by:
-* RII Track 1: ‘Ike Wai Securing Hawai‘i’s Water Future NSF OIA #1557349, Collaborative Research: SS2-SSI:
-
 * The Tapis Framework: NSF Office of Advanced CyberInfrastructure #1931439 and #1931575
-
-* CyberInsfrastructure TRaining to Advance Climate Science (CI-TRACS) NSF #2118222  
 
 <!-- this is an html comment -->
 
