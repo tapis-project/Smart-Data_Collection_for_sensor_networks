@@ -12,9 +12,11 @@ To get the most out of this worskshop attendees should:
 * Have a basic understanding of Jupyter notebook
 
 Presenters Today:
-* Jared McLean - Software Research Engineer - Information Technology Services - University of Hawaii - System
-* Michael Dodge II - Undergraduate Ike Wai student - Information Technology Services - University of Hawaii - System
 * Sean Cleveland Ph.D. - Cyberinfrastructure Research Scientist - Information Technology Services - University of Hawaii - System
+* Steve Black Ph.D. - Engineering Scientist in the Cloud and Interactive Computing (CIC) group - Texas Advanced Computing Center
+* Joe Stubbs Ph.D. - Research Associate and Manager - Cloud and Interactive Computing (CIC) group - Texas Advanced Computing Center
+* Anagha Jamthe Ph.D. - Research Engineering Scientist Associate - Cloud and Interactive Computing (CIC) group - Texas Advanced Computing Center
+* Smruti Padhy Ph.D. - Engineering Scientist - Cloud and Interactive Computing (CIC) group - Texas Advanced Computing Center
 
 Funding provided by:
 * RII Track 1: ‘Ike Wai Securing Hawai‘i’s Water Future NSF OIA #1557349, Collaborative Research: SS2-SSI:
