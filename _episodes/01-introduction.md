@@ -1,13 +1,20 @@
 ---
 title: "Introduction to Tapis"
-teaching: 15
+teaching: 35
 exercises: 0
 questions:
 - "What is Tapis?"
+- "What is Tapis Streams API and Abaco?"
+
 objectives:
 - "Learn background about the Tapis."
+- "Learn background about the Tapis Streams API and Abaco."
+
 keypoints:
 - "Tapis is an API framework for managing computational workloads."
+- "The Tapis streams API provides organizational structures for representing sensor networks and streaming real time data."
+- "Abaco provides function-as-a-service functionality to Tapis by allowing containerized workflows to be kicked off via messages sent by a client."
+
 ---
 
 # Streaming Data Collection for Sensor Networks
@@ -18,18 +25,6 @@ keypoints:
 
 Tapis is a National Science Foundation (NSF) funded web-based API framework for securely managing computational workloads across infrastructures and institutions. The newest iteration, Tapis V3, has several new capabilities, including a multi-site security kernel, streaming data APIs, and high-level support for containerized applications. Tapis provides several APIs for data management and processing. We will be working with the streams API for handling stream style data typical of a sensor network.
 
----
-title: "Introduction to Streams API and Abaco"
-teaching:20
-exercises: 0
-questions:
-- "What is Tapis Streams API and Abaco?"
-objectives:
-- "Learn background about the Tapis Streams API and Abaco."
-keypoints:
-- "The Tapis streams API provides organizational structures for representing sensor networks and streaming real time data."
-- "Abaco provides function-as-a-service functionality to Tapis by allowing containerized workflows to be kicked off via messages sent by a client."
----
 
 ## Streams API
 
