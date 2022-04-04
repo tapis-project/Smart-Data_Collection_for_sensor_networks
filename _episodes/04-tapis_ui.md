@@ -1,10 +1,9 @@
-
 ---
 title: "Tapis UI"
 teaching: 5
 exercises: 0
 questions:
-- "Introduction to Tapis ui"
+- "Introduction to Tapis UI"
 objectives:
 - "How to use the Tapis UI."
 ---
