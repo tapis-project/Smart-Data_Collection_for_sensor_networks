@@ -17,7 +17,7 @@ We will use MyBinder to deploy and access a Jupyter notebook with python scripts
 
 ## Deploying a Jupyter notebook server using MyBinder
 
-Go to the [MyBinder](https://user-images.githubusercontent.com/102240/161590564-9bc41c49-c173-4f59-9838-e8d0de7d6016.png) notebook link in a web browser.
+Go to the [MyBinder](https://mybinder.org/v2/gh/CI-TRACS/Smart-Data_Collection_for_sensor_networks_notebook/HEAD) notebook link in a web browser.
 
 This should launch a jupyter environment with all the dependencies and notebook for this workshop.
 
