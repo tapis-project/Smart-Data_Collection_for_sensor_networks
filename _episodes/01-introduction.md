@@ -9,17 +9,7 @@ objectives:
 keypoints:
 - "Tapis is an API framework for managing computational workloads."
 ---
-title: "Introduction to Streams API and Abaco"
-teaching:20
-exercises: 0
-questions:
-- "What is Tapis?"
-objectives:
-- "Learn background about the Tapis Streams API and Abaco."
-keypoints:
-- "The Tapis streams API provides organizational structures for representing sensor networks and streaming real time data."
-- "Abaco provides function-as-a-service functionality to Tapis by allowing containerized workflows to be kicked off via messages sent by a client."
----
+
 # Streaming Data Collection for Sensor Networks
 
 ## Tapis
