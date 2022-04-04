@@ -23,7 +23,7 @@ title: "Introduction to Streams API and Abaco"
 teaching:20
 exercises: 0
 questions:
-- "What is Tapis?"
+- "What is Tapis Streams API and Abaco?"
 objectives:
 - "Learn background about the Tapis Streams API and Abaco."
 keypoints:
