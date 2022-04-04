@@ -8,7 +8,7 @@ We will also be using a Jetstream Virtual machine as a system for Tapis to send 
 
 To access the server you can ssh in with:
 ```
-ssh username@129.114.17.86
+ssh username@gw22.tacc.cloud
 ```
 
 You will recieve and account and password from the instructors
