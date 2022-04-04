@@ -11,36 +11,32 @@ keypoints:
 - "After configuring and submitting a job to MANA for deploying the Jupyter notebook server, we can connect to the server and use it to access notebook files stored in the user's home directory."
 ---
 
-# Creating a Jupyter notebook server
+# Creating a Jupyter notebook server with MyBinder
 
-We will use MANA to deploy and access a Jupyter notebook with python scripts demonstrating the usage of the Tapis Streams API. The web interface for MANA includes a built in interface for creating and deploying a Jupyter notebook server.
+We will use MyBinder to deploy and access a Jupyter notebook with python scripts demonstrating the usage of the Tapis Streams API. The web interface for MANA includes a built in interface for creating and deploying a Jupyter notebook server.
 
-## Deploying a Jupyter notebook server on MANA
+## Deploying a Jupyter notebook server using MyBinder
 
-Go to [https://uhhpc.its.hawaii.edu/](https://uhhpc.its.hawaii.edu/) in a web browser and log in with your UH credentials. This will bring you to the MANA web interface.
+Go to the [MyBinder](https://user-images.githubusercontent.com/102240/161590564-9bc41c49-c173-4f59-9838-e8d0de7d6016.png) notebook link in a web browser.
 
-At the top of this interface there should be a dropdown menu labeled "Interactive Apps". Click this and select "Jupyter Notebook" from the dropdown menu. This will bring you to a form for configuring and deploying the server as a job on MANA.
+This should launch a jupyter environment with all the dependencies and notebook for this workshop.
 
-![MANA Interactive job menu](../fig/mana_jupyter.PNG)
 
-We will deploy this job to the workshop partition. Most of the default settings for this job should work, but increase the "Number of hours" to 2. These values should be as follows:
 
-| Syntax                    | Description |
-| ------------------------- | ----------- |
-| SLURM Account             |             |
-| Partition                 | workshop    |
-| Number of hours           | 2           |
-| Number of cores           | 1           |
-| GB of RAM                 | 6           |
-| Number of GPUs requested  | 0           |
-| GPU Type                  | Any         |
+# Using Google Co-lab
 
-Click the "Launch" button to schedule the job. This should display a tile with information about the job including its status. The job will likely start with the "Queued" status indicating that it has been queued and is waiting for resources to become available to execute the job.
+If MyBinder has some issues or you prefer Google Co-lab you can go to colab in the browser https://colab.research.google.com/ and login with you google account.  You should be presented with a dialog and you can select the Github tab and paste in the following URL https://github.com/CI-TRACS/Smart-Data_Collection_for_sensor_networks_notebook and then hit the search icon.  You will then be shown a list of files you can select Smart-Data_Collection_for_sensor_networks.ipynb file and the the far button on the left (Open notebook in new tab).
 
-![Jupyter notebook server job queued](../fig/job_queued.PNG)
+Now you need to install the 3 python library dependences in the colab. Add a code cell at the top of the notebook and paste the following in that cell and run it.
 
-Shortly, the job status should change to "Running" indicating the job has been launched, and a "Connect to Jupyter" button should be available at the bottom of the tile. Clicking this will connect you to the deployed Jupyter notebook server.
+```!pip install tapipy pandas matplotlib```
 
-![Jupyter notebook server job running](../fig/job_running.PNG)
+After running the above code you need to restart the runtime - go to the menu and select Runtime -> Restart runtime or use CTRL+M on the keyboard.  Now you can execute the code in the notebook and follow the rest of the tutorial.
 
-The Jupyter notebook server will display the files available in your account's home directory on MANA. We will need to download the notebook file for this workshop and install some dependencies the notebook relies on. The next section will describe how to install these dependencies and load the notebook.
+# Using Docker
+
+If you wish to run this locally and you have Docker installed you can use the following command:
+
+```docker run -p 8888:8888 scleveland/streams-tutorial:latest```
+
+You will see the standard output from the above command result in a URL that looks like http://127.0.0.1:8888/?token=369db183f7c0e018dca647914f5c56760ab80a25087a3656 that you can copy into your browser and access the jupyter lab session and the notebook. Once loaded in the browser you can continue with the tutorial.
