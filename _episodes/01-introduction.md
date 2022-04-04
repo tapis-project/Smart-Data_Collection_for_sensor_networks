@@ -8,6 +8,7 @@ objectives:
 - "Learn background about the Tapis."
 keypoints:
 - "Tapis is an API framework for managing computational workloads."
+---
 title: "Introduction to Streams API and Abaco"
 teaching:20
 exercises: 0
