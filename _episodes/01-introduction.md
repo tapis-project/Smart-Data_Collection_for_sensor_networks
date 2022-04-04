@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Tapis"
+title: "Introduction to Tapis, Streams API and Abaco"
 teaching: 35
 exercises: 0
 questions:
