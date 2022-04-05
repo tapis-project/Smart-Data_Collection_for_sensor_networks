@@ -5,7 +5,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 ---
 Smart-Data Collection for Sensor Networks: How to use Tapis for storing and retreiving stream based sensor data.
 
-Attendee will learn about the Tapis framework and how to use it's APIs to store and process streaming sensor data as well as establish alert to trigger Actor based functions or webhooks to other services. This workshop will introduce researchers to the tapipy Python library to aide in interacting with the Tapis API services within an interactive Jupyter notebook.  The concepts of containers and Actors will also be introduced at a high level.
+Attendees will learn about the Tapis framework and how to use it's APIs to store and process streaming sensor data as well as establish alert to trigger Actor based functions or webhooks to other services. This workshop will introduce researchers to the tapipy Python library to aide in interacting with the Tapis API services within an interactive Jupyter notebook.  The concepts of containers and Actors will also be introduced at a high level.
 
 To get the most out of this worskshop attendees should:
 * Have a basic understanding of Python
