@@ -31,7 +31,7 @@ Now you need to install the 3 python library dependences in the colab. Add a cod
 After running the above code you need to restart the runtime - go to the menu and select Runtime -> Restart runtime or use CTRL+M on the keyboard.  Now you can execute the code in the notebook and follow the rest of the tutorial.
 
 
-# Alternate Method Using Docker
+# Alternate Method: Using Docker
 
 If you wish to run this locally and you have Docker installed you can use the following command:
 
