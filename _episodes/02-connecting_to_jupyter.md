@@ -9,7 +9,7 @@ objectives:
 ---
 # Running a Jupyter notbook using Google Co-lab
 
-In this tutorial we will show you how to run the Jupyter notebools using [Google Co-lab] (https://colab.research.google.com/) and login with you google account.  You should be presented with a dialog and you can select the Github tab and paste in the following [URL](https://github.com/tapis-project/Smart-Data_Collection_for_sensor_networks_notebook) and then hit the search icon.  You will then be shown a list of files you can select Smart-Data_Collection_for_sensor_networks.ipynb file and the the far button on the left (Open notebook in new tab).
+In this tutorial we will show you how to run the Jupyter notebools using [Google Co-lab](https://colab.research.google.com/) and login with you google account.  You should be presented with a dialog and you can select the Github tab and paste in the following URL https://github.com/tapis-project/Smart-Data_Collection_for_sensor_networks_notebook and then hit the search icon.  You will then be shown a list of files you can select Smart-Data_Collection_for_sensor_networks.ipynb file and the the far button on the left (Open notebook in new tab).
 
 Now you need to install the 3 python library dependences in the colab. Add a code cell at the top of the notebook and paste the following in that cell and run it.
 
