@@ -10,6 +10,8 @@ objectives:
 
 [Tapis UI video](https://www.youtube.com/watch?v=0OPffobYE-U)
 
+Login to [Tapis UI](https://tapis-training.github.io/tapis-ui/#/login) with your training acounts 
+
 
 {% include links.md %}
 
