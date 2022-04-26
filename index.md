@@ -13,10 +13,11 @@ To get the most out of this worskshop attendees should:
 
 Presenters Today:
 * Sean Cleveland Ph.D. - Cyberinfrastructure Research Scientist - Information Technology Services - University of Hawaii - System
-* Steve Black Ph.D. - Engineering Scientist in the Cloud and Interactive Computing (CIC) group - Texas Advanced Computing Center
 * Joe Stubbs Ph.D. - Research Associate and Manager - Cloud and Interactive Computing (CIC) group - Texas Advanced Computing Center
+* Steve Black Ph.D. - Engineering Scientist in the Cloud and Interactive Computing (CIC) group - Texas Advanced Computing Center
+* Richard Cardone Ph.D. - Engineering Scientist - Cloud and Interactive Computing (CIC) group - Texas Advanced Computing Center
 * Anagha Jamthe Ph.D. - Research Engineering Scientist Associate - Cloud and Interactive Computing (CIC) group - Texas Advanced Computing Center
-* Smruti Padhy Ph.D. - Engineering Scientist - Cloud and Interactive Computing (CIC) group - Texas Advanced Computing Center
+* Jared McLean - Software Research Engineer - Information Technology Services - University of Hawaii - System
 
 Funding provided by:
 * The Tapis Framework: NSF Office of Advanced CyberInfrastructure #1931439 and #1931575
