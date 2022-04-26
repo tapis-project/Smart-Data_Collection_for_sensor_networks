@@ -3,9 +3,9 @@ title: "Connecting to Jupyter"
 teaching: 5
 exercises: 5
 questions:
-- "How do we access a Jupyter notebook server MyBinder?"
+- "Running Jupyter notebooks using Google Co-lab?"
 objectives:
-- "Use MyBinder to deploy and access a Jupyter notebook for Smart-Data collection for sensor networks."
+- "Use Google Co-lab to access a Jupyter notebook for Smart-Data collection for sensor networks."
 ---
 
 # Creating a Jupyter notebook server with MyBinder
