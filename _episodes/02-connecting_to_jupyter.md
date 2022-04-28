@@ -9,13 +9,19 @@ objectives:
 ---
 # Running a Jupyter notbook using Google Co-lab
 
-In this tutorial we will show you how to run the Jupyter notebools using [Google Co-lab](https://colab.research.google.com/) and login with you google account.  You should be presented with a dialog and you can select the Github tab and paste in the following URL https://github.com/tapis-project/Smart-Data_Collection_for_sensor_networks_notebook and then hit the search icon.  You will then be shown a list of files you can select Smart-Data_Collection_for_sensor_networks.ipynb file and the the far button on the left (Open notebook in new tab).
+In this tutorial we will show you how to run the Jupyter notebooks using [Google Co-lab](https://colab.research.google.com/). 
 
-Now you need to install the 3 python library dependences in the colab. Add a code cell at the top of the notebook and paste the following in that cell and run it.
+**Step 1:** You will login with your google account.  
+
+**Step 2:** Once you login successfully, you should be presented with a dialog and you can select the Github tab and paste in the following URL **https://github.com/tapis-project/Smart-Data_Collection_for_sensor_networks_notebook** and then hit the search icon.  
+
+**Step 3: **You will then be shown a list of files you can select Smart-Data_Collection_for_sensor_networks.ipynb file and the the far button on the left (Open notebook in new tab).
+
+**Step 4:** Now you need to install the 3 python library dependences in the colab. Add a code cell at the top of the notebook and paste the following in that cell and run it.
 
 ```!pip install tapipy pandas matplotlib```
 
-After running the above code you need to restart the runtime - go to the menu and select Runtime -> Restart runtime or use CTRL+M on the keyboard.  Now you can execute the code in the notebook and follow the rest of the tutorial.
+**Step 5:** After running the above code you need to restart the runtime - go to the **Menu** and select **Runtime -> Restart runtime** or use **CTRL+M** on the keyboard.  Now you can execute the code in the notebook and follow the rest of the tutorial.
 
 
 ## Alternate Method: Creating a Jupyter notebook server with MyBinder
