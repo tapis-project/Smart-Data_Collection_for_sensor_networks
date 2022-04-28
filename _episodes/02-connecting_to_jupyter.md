@@ -30,7 +30,7 @@ You can access a Jupyter notebook with python scripts demonstrating the usage of
 
 ### Deploying a Jupyter notebook server using MyBinder
 
-Go to the [MyBinder](https://mybinder.org/v2/gh/scleveland/Smart-Data_Collection_for_sensor_networks_notebook/HEAD?labpath=Smart-Data_Collection_for_sensor_networks.ipynb) notebook link in a web browser.
+Go to the [MyBinder](https://mybinder.org/v2/gh/CI-TRACS/Smart-Data_Collection_for_sensor_networks_notebook/HEAD) notebook link in a web browser.
 
 This should launch a jupyter environment with all the dependencies and notebook for this workshop.
 
