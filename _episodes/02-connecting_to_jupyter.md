@@ -30,15 +30,6 @@ You can access a Jupyter notebook with python scripts demonstrating the usage of
 
 ### Deploying a Jupyter notebook server using MyBinder
 
-Go to the [MyBinder](https://mybinder.org/v2/gh/CI-TRACS/Smart-Data_Collection_for_sensor_networks_notebook/HEAD) notebook link in a web browser.
+Go to the [MyBinder](https://mybinder.org/v2/gh/tapis-project/Smart-Data_Collection_for_sensor_networks_notebook/HEAD) notebook link in a web browser.
 
 This should launch a jupyter environment with all the dependencies and notebook for this workshop.
-
-
-## Alternate Method: Using Docker
-
-If you wish to run this locally and you have Docker installed you can use the following command:
-
-```docker run -p 8888:8888 scleveland/streams-tutorial:latest```
-
-You will see the standard output from the above command result in a URL that looks like http://127.0.0.1:8888/?token=369db183f7c0e018dca647914f5c56760ab80a25087a3656 that you can copy into your browser and access the jupyter lab session and the notebook. Once loaded in the browser you can continue with the tutorial.
